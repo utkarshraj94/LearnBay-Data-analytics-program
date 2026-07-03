@@ -17,7 +17,7 @@ Four related tables from a CRM sales-pipeline export:
 
 Analyzed via [`Utkarsh_raj_Sales_analytics.sql`](Utkarsh_raj_Sales_analytics.sql) and visualized in [`Utkarsh_raj_Sale_analytics.pbix`](Utkarsh_raj_Sale_analytics.pbix); full write-up in [`Analysis report`](Analysis%20report).
 
-## Basic Insights
+## Key Insights
 
 The SQL analysis surfaces:
 
