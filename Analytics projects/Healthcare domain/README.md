@@ -15,7 +15,7 @@ Synthetic electronic health records queried directly via SQL, spanning four core
 
 No flat file is included in this folder — analysis runs directly against the relational tables via [`UtkarshRaj_healthcare_project_SQLAnalysis.sql`](UtkarshRaj_healthcare_project_SQLAnalysis.sql) and is visualized in [`UtkarshRaj_healthcare_project_Visual analysis.pbix`](UtkarshRaj_healthcare_project_Visual%20analysis.pbix).
 
-## Basic Insights
+## Key Insights
 
 The six SQL analyses in this project surface:
 
