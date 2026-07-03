@@ -10,7 +10,7 @@ Build a regression model that predicts the resale price of used cars from basic 
 - **Cleaning:** dropped 19 rows with missing company, removed non-numeric/placeholder values (`"Ask For Price"`, fuel-type strings mixed into `kms_driven`, malformed years), and stripped the free-text `name` column.
 - **Final cleaned dataset** (`cln_car.csv`): **842 rows**, model years **1995–2019**, prices from **₹30,000 to ₹85,00,003**, and 0–400,000 km driven.
 
-## Basic Insights
+## Key Insights
 
 - Price is heavily right-skewed — a handful of premium brands (BMW, Mini) sit far above the rest of the market, but were kept in the model rather than treated as outliers since premium brands are a real part of the target population.
 - A plain Linear Regression on raw numeric features barely explains the data (R² ≈ 0.07–0.17); most of the price signal comes from the categorical `company` and `fuel_type` fields, not year or kilometers alone.
