@@ -10,7 +10,7 @@ Analyze state-wise and season-wise crop production across India to measure regio
 - **Size:** 246,091 records, 7 columns — `State_Name`, `District_Name`, `Crop_Year`, `Season`, `Crop`, `Area`, `Production`.
 - **Coverage:** 33 states/UTs, 124 crop types, crop years 1997–2015.
 
-## Basic Insights
+## Key Insights
 
 - **Kerala dominates total production**, well ahead of Andhra Pradesh, Tamil Nadu, Uttar Pradesh, and Assam — driven almost entirely by coconut, a perennial, high-volume crop.
 - **Coconut and Sugarcane are the two largest crops nationally** by total production, followed by Rice, Wheat, and Potato.
